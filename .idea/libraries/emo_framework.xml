@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="emo_framework">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../emo-framework-0.2.0/Emo-Android/export/emo_framework.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

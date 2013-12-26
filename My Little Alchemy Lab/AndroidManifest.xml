@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.example.My_Little_Alchemy_Lab"
+          package="com.AnimeAndMangaLabs.My_Little_Alchemy_Lab"
           android:versionCode="1"
           android:versionName="1.0">
     <uses-sdk android:minSdkVersion="15"/>
